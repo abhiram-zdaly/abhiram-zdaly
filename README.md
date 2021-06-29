@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiram-zdaly
+- 👋 Hi, I’m Abhiram @abhiram-zdaly
 - 👀 I’m interested in Machine Learning & Data Analysis
 - 🌱 I’m currently learning Deep Learning & Computer Vision
 - 💞️ I’m looking to collaborate on Data Science Projects
